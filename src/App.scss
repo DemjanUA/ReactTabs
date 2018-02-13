@@ -1,0 +1,11 @@
+$bcg-color: rgba(245, 245, 245, 1);
+$primer-color: grey;
+
+body {
+    background-color: $bcg-color;
+    color: $primer-color;
+}
+
+#root {
+    padding-top: 120px;
+}
